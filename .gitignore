@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Rock-Paper-Scissors (Python)/*
+!/Rock-Paper-Scissors (Python)/task/
+/Rock-Paper-Scissors (Python)/task/*
+!/Rock-Paper-Scissors (Python)/task/game.py
