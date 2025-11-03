@@ -13,7 +13,7 @@ This solution follows the rules and expected behavior from the Hyperskill projec
 
 ## Files
 
-- `main.py` (or the single script containing the game logic) — the game implementation (see code in the repository).
+- `game.py` (or the single script containing the game logic) — the game implementation (see code in the repository).
 - `rating.txt` — a plain text file storing player names and their scores; created/updated by the game.
 
 ## How it works (high level)
